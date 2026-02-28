@@ -64,7 +64,7 @@ Nunca dejo de formarme. Actualmente estoy enfocando mi aprendizaje en:
 
 ¿Quieres conectar, colaborar en un proyecto o charlar sobre algo en específico? ¡Escríbeme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/carlota-pr%C3%B3sper-hern%C3%A1ndez-ba42822a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[(https://www.linkedin.com/in/carlota-pr%C3%B3sper-hern%C3%A1ndez-ba42822a2/))]
 
 <!--
 **carlotaprosper/carlotaprosper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
